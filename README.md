@@ -1,4 +1,4 @@
-Hi 👋 My name is Tia Sharpe
+Hi my name is Tia Sharpe :)
 ===========================
 
 I study Computer Science student at the University of West Florida
