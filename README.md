@@ -1,7 +1,7 @@
 Hi 👋 My name is Tia Sharpe
 ===========================
 
-Computer Science student at the University of West Florida
+I study Computer Science student at the University of West Florida
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [sharpetj10@gmail.com](mailto:sharpetj10@gmail.com)
